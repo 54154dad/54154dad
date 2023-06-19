@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @54154dad
 - 👀 对代码又爱又恨，喜欢写各种BUG！！！！
 - 🌱 一直在学习的路上越走越远
+- 来个老板收留我吧
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
